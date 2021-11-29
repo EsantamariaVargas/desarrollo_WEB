@@ -1,2 +1,2 @@
 # desarrollo_WEB
-aquí estarán los trabajos de desarrollo web que se asignen en clase
+las carpetas css1, js1 pertenecen al ejercicio 4 al igual que los archivos index.php, des.web.jpg, y img_Icono.jpg
